@@ -1,4 +1,4 @@
 travis-csharp-test
 ==================
 
-This a repository to test Travis CI C# support.
+This a test repository for Travis CI C# support.
