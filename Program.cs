@@ -9,7 +9,7 @@ namespace travistest
 	{
 		public static void Main (string[] args)
 		{
-			string json = @"['Hello World']";
+			string json = @"['Hello World!']";
 			List<string> test = JsonConvert.DeserializeObject<List<string>>(json);
 			Console.WriteLine (test[0]);
 		}
